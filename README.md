@@ -19,7 +19,7 @@ under the lead of Len Lindsay.
 #### COMAL SuperChip Screenshots<br />
 
 
-### SuperChip details:
+### SuperChip details from COMAL Today #13:
 
 The SuperChip is a collection of different packages, build in one EPROM.
 The Packages are as following:

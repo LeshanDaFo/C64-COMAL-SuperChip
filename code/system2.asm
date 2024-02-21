@@ -1,3 +1,17 @@
+; ###############################################################
+; #                                                             #
+; #  system2 package for                                        #
+; #  C64 COMAL80 SUPER CHIP EXTENSION SOURCE CODE               #
+; #  Version 1.30 (2024.02.21)                                  #
+; #  Copyright (c) 2023 Claus Schlereth                         #
+; #                                                             #
+; #  This version of the source code is under MIT License       #
+; #                                                             #
+; #  This source code can be found at:                          #
+; #  https://github.com/LeshanDaFo/C64-COMAL-SuperChip          #
+; #                                                             #
+; ###############################################################
+
 ptSystem2
     !pet $0A,"hidescreen"
     !word phHidescreen

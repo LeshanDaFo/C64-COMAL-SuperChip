@@ -14,17 +14,11 @@ COMAL 2.0 cartridge. It works with both
 the C64 and C128."
 
 This extension was provided original by the COMAL Users Group, USA, Limited,
+
 under the lead of Len Lindsay.
 
-#### Hagensoft Screenshots<br />
-<div align="left">
-<table border="0" cellpadding="6" width="600">
- <tr>
-  <td align="center"><img src="https://github.com/LeshanDaFo/C64-COMAL-Hagensoft/assets/97148663/1da33654-0797-44f4-8c39-5b5fa416ae2f" width="320" height="240"></td>
-  <td align="center"><img src="https://github.com/LeshanDaFo/C64-COMAL-Hagensoft/assets/97148663/16837d13-2e75-4ec7-8b2b-73991ee3fe3d" width="320" height="240"></td>
- </tr>
-</table>
-</div>
+#### COMAL SuperChip Screenshots<br />
+
 
 ### SuperChip details:
 

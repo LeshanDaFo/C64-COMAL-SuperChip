@@ -42,9 +42,9 @@ The Packages are as following:
    9. STRINGS<br />
       The strings package 1.20 from Richard Bain with 9 commands is added, including the QUICKSORT from Robert Ross, and STRING code from David Stidolph<br />
 
-You can find more detailed information on the COMAL Today magazines -- https://archive.org/search?query=comal+today
+You can find more detailed information on the COMAL Today magazines -- https://archive.org/search?query=comal+today<br />
 
-Information about a new version of the SuperChip can be found here:<br /><br />
+Information about a new version of the SuperChip can be found here:<br />
 https://www.forum64.de/index.php?thread/139801-comal-80-super-chip-package-eigene-implementierung/&highlight=super%20chip
 
 At this point I would like to point out that I have not examined the commands so much in detail.

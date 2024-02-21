@@ -14,7 +14,6 @@ COMAL 2.0 cartridge. It works with both
 the C64 and C128."
 
 This extension was provided original by the COMAL Users Group, USA, Limited,
-
 under the lead of Len Lindsay.
 
 #### COMAL SuperChip Screenshots<br />

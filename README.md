@@ -45,7 +45,9 @@ The Packages are as following:
 You can find more detailed information on the COMAL Today magazines -- https://archive.org/search?query=comal+today<br />
 
 Information about a new version of the SuperChip can be found here:<br />
-https://www.forum64.de/index.php?thread/139801-comal-80-super-chip-package-eigene-implementierung/&highlight=super%20chip
+https://www.forum64.de/index.php?thread/139801-comal-80-super-chip-package-eigene-implementierung/&highlight=super%20chip<br />
+<br />
+<br />
 
 At this point I would like to point out that I have not examined the commands so much in detail.
 The point here is not to describe the functions or procedures

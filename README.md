@@ -24,24 +24,24 @@ under the lead of Len Lindsay.
 The SuperChip is a collection of different packages, build in one EPROM.
 The Packages are as following:
 
-   1. AUTOSTART:
+   1. AUTOSTART:<br />
 	  When the computer is turned on or reset, if the shift key is depressed, the file named "hi" is loaded and run from disk.
-   2. RABBIT:
+   2. RABBIT:<br />
       An updated version of the rabbit package from COMAL Today No. 12 with 16 commands is included on SuperChip.
-   3. C128:
+   3. C128:<br />
       The C128 package 1.21 from David Stidolph with 29 commands is added.
-   4. MATH:
+   4. MATH:<br />
       The Math package 1.20 from Richard Bain with 16 commands is added.
-   5. FILES:
+   5. FILES:<br />
       The Files package 1.20 from Richard Bain with 12 commands is added.
-   6. Keyboard:
+   6. Keyboard:<br />
       The keyboard package 1.20 from Richard Bain with 10 commands is added.
-   7. COLORS:
+   7. COLORS:<br />
       The colors package 1.20 from Richard Bain is added.
-   8. SYSTEM2:
+   8. SYSTEM2:<br />
       The system2 package 1.20 from Richard Bain with 10 commands is added.
-   9. STRINGS
-      The strings package 1.20 from Richard Bain with 9 commands is added, including the QUICKSORT from Robert Ross, and STRING code from David Stidolph
+   9. STRINGS<br />
+      The strings package 1.20 from Richard Bain with 9 commands is added, including the QUICKSORT from Robert Ross, and STRING code from David Stidolph<br />
 
 You can find more detailed information on the COMAL Today magazines -- https://archive.org/search?query=comal+today
 

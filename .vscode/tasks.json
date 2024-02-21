@@ -1,0 +1,31 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build -> C64 -> SuperChip",
+            "type": "shell",
+            "osx": {
+                "command": "bin/mac/acme -f plain  -o build/superchip.bin code/SuperChip.asm && sh ./bin/mac/makecrt.sh && /Applications/Vice3.8/x64sc.app/Contents/MacOS/x64sc -cartcrt /Volumes/common/GitHub/C64-COMAL-SuperChip/build/ComalSuperChip.crt",
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "clear": true
+            },
+            "problemMatcher": {
+                "owner": "acme",
+                "fileLocation": ["relative", "${workspaceFolder}"],
+                "pattern": {
+                    "regexp": "^(Error - File\\s+(.*), line (\\d+) (\\(Zone .*\\))?:\\s+(.*))$",
+                    "file": 2,
+                    "location": 3,
+                    "message": 1
+                }
+            }
+        }
+    ]
+}

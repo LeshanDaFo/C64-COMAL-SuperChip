@@ -16,7 +16,14 @@ the C64 and C128."
 This extension was provided original by the COMAL Users Group, USA, Limited,
 
 #### COMAL SuperChip Screenshots<br />
-
+<div align="left">
+<table border="0" cellpadding="6" width="600">
+ <tr>
+  <td align="center"><img width="715" alt="SuperChip start screen" src="https://github.com/LeshanDaFo/C64-COMAL-SuperChip/assets/97148663/e3e2a152-4e2c-4d30-af12-4859f48357d6">
+  <td align="center"><img width="716" alt="SuperChip Autostart" src="https://github.com/LeshanDaFo/C64-COMAL-SuperChip/assets/97148663/d9b74b86-7a1d-4f97-b736-b7b149e216ac"></td>
+ </tr>
+</table>
+</div>
 
 ### SuperChip details from COMAL Today #13:
 

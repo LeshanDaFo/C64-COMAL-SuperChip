@@ -49,8 +49,7 @@ https://www.forum64.de/index.php?thread/139801-comal-80-super-chip-package-eigen
 <br />
 <br />
 
-At this point I would like to point out that I have not examined the commands so much in detail.
-The point here is not to describe the functions or procedures
+I would like to point out that the point here is not to describe the functions or procedures.
 I just want to present the source code I created from the modules.
 
 The extensions created with this source code were compared by me with the existing data and correspond to this 1:1

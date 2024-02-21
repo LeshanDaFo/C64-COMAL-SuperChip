@@ -8,9 +8,9 @@ https://www.c64-wiki.com/wiki/Commodore-64_Comal_80_rev_2.01<br />
 
 #### Super Chip information from COMAL Today No.13
 
-"Super Chip is a 16k EPROM designed to plug
-into the empty socket inside the black
-COMAL 2.0 cartridge. It works with both
+"Super Chip is a 16k EPROM designed to plug<br />
+into the empty socket inside the black<br />
+COMAL 2.0 cartridge. It works with both<br />
 the C64 and C128."
 
 This extension was provided original by the COMAL Users Group, USA, Limited,
